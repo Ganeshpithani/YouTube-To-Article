@@ -1,0 +1,10 @@
+python-dotenv>=1.0
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-ollama>=0.2.0
+youtube-transcript-api
+langchain-text-splitters>=0.3.0
+langchain-core>=0.3.0
+langchain-agents>=0.3.0
+langchain-text-splitters>=0.3.0  # useful if you do RAG / text chunks
+# zipfile36; python_version < "3.8"  # Python 3.8+ has zipfile built‑in, so this line is optional
